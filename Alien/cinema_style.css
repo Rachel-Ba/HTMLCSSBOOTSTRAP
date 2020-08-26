@@ -1,0 +1,236 @@
+body
+{
+	background-color : black;
+}
+
+h1
+{
+	margin-top: 5%;
+	font-size: 50px;
+	color:white;
+	text-align: center;
+	font-family: Impact;
+
+}
+
+h2
+{
+	font-size: 50px;
+	color:white;
+	text-align: center;
+	font-family: Impact;
+}
+
+h3
+{
+	font-size: 30px;
+	color:white;
+	text-align: center;
+	font-family: Impact;
+}
+
+h4
+{
+	font-size: 20px;
+	color:white;
+	text-align: center;
+	font-family: Impact;
+
+}
+
+
+#Section1
+{
+	float:left;
+	height: 35%;
+	width: 100%;
+	background-image: url("multimedia/alien-head.jpg");
+	background-position: center;
+    background-size: auto;
+}
+
+
+#Section2
+{
+	float:left;
+	width: 100%;
+	background-image: url("multimedia/Alien-egg.jpg");
+	height: 160%;
+}
+
+#Section3
+{
+	float:left;
+	width: 100%;
+	background-color: black;
+	height: 75%;
+}
+
+#Section4
+{
+	float:left;
+	width: 100%;
+	background: linear-gradient(90deg, #c3f4c8 50%, #a2fc9d 50%);
+	height: 115%;
+}
+
+#Section5
+{
+	float:left;
+	width: 100%;
+	background-color: rgb(102, 145, 94);
+	height: 75%;
+}
+
+/*-------------------------------------------------------------------------*/
+
+#Film-Affiche
+{
+	font-size: 50px;
+	color:white;
+	text-align: center;
+	font-family: Impact;
+}
+
+article
+{
+	float:left;
+	width: 25%;
+	margin-left:4%;
+	margin-right:4%;
+}
+
+
+
+#AlienImage
+{
+
+	height: 50%;
+
+}
+
+#Synopsis
+{
+	width: 50%px;
+	color:white;
+	text-align: justify;
+	font-family: Impact;
+	background-color: black;
+
+}
+
+/*-------------------------------------------------------------------------*/
+
+#Part3
+{
+
+	font-size: 20px;
+	color:white;
+	text-align: center;
+	font-family: Impact;
+
+}
+
+#Sec3
+{
+	float:left;
+	width: 25%;
+	margin-left:10%;
+	margin-right:10%;
+}
+
+td
+{
+
+	font-size: 15px;
+	text-align: center;
+	color:white;
+	font-family: Impact;
+
+}
+
+li
+{
+
+	font-size: 15px;
+	text-align: left;
+	color:white;
+	font-family: Impact;
+
+}
+
+.VIDE
+{
+  visibility: collapse
+}
+
+table
+{
+	border-collapse: collapse;
+}
+
+th, td 
+{
+  border: 1px solid white;
+  height: 30%;
+  width: 50%;
+}
+
+/*-------------------------------------------------------------------------*/
+
+#Map
+{
+	float:left;
+	width: 25%;
+	margin-left:10%;
+	margin-top:5%;
+}
+
+#Sec4
+{
+	float:left;
+	color : white;
+	font-size: 50px;
+	font-family: Impact;
+	margin-top: 15%;
+	margin-left:20%;
+}
+
+
+/*-------------------------------------------------------------------------*/
+
+form
+{
+  margin: 0 auto;
+  width: 25%;
+}
+
+#SUJET,#MESSAGE
+{
+	width: 100%;
+}
+
+#PRENOM,#NOM,#EMAIL,#TELEPHONE
+{
+	width: 50%;
+}
+
+#MESSAGE
+{
+	height: 25%;
+}
+
+/*-------------------------------------------------------------------------*/
+
+footer
+{
+  	margin: 0 auto;
+  	width: 25%;
+  	color : white;
+}
+
+
+
+
+
+
